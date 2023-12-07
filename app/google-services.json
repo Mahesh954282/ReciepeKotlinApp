@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839423157053",
+    "project_id": "recipekotlinapp",
+    "storage_bucket": "recipekotlinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839423157053:android:0469271abb5b146d501b54",
+        "android_client_info": {
+          "package_name": "com.example.reciepekotlinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ka_LatZUphEL1X5tnhbC57HVSDYKN-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
