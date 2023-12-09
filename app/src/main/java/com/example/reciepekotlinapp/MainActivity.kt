@@ -70,14 +70,14 @@ fun addSampleRecipesToFirestore() {
         mapOf(
             "title" to "Spaghetti Carbonara",
             "description" to "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
-            "imageUrl" to "https://example.com/image1.jpg",
+            "imageUrl" to "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "ingredients" to listOf("Pasta", "Eggs", "Cheese", "Bacon", "Black Pepper"),
             "estimatedTime" to "20 mins"
         ),
         mapOf(
             "title" to "Chicken Curry",
             "description" to "Rich and creamy curry made with tender chicken pieces.",
-            "imageUrl" to "https://example.com/image2.jpg",
+            "imageUrl" to "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "ingredients" to listOf("Chicken", "Onion", "Garlic", "Curry Powder", "Coconut Milk"),
             "estimatedTime" to "40 mins"
         )
